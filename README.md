@@ -1,3 +1,5 @@
-# My-first-GitHub-
+# My-first-GitHub
 创建的第一个库
-SDFSFSDFSAFAS
+#### 因为我是后来者，所以我要付出更多的汗水
+
+这是我的第一个项目：努力 + 勤奋
